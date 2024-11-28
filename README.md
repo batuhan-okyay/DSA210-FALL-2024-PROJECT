@@ -1,3 +1,5 @@
+#DSA210-Fall2024-Project_Description
+
 This project aims to analyze my personal activity data from YouTube, Spotify, Netflix, and
 League of Legends (LoL) to gain insights into my entertainment habits across different
 platforms. By examining the data, I aim to uncover patterns, trends, and preferences in my
